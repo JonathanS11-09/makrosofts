@@ -2,9 +2,6 @@
 
 Este sitio proporciona información y soporte para el **Dell Latitude E7470**.  
 
-🔗 **Accede a la página aquí:**  
-[https://tuusuario.github.io/soporte-dell/](https://tuusuario.github.io/soporte-dell/)
-
 ## 📌 Especificaciones del dispositivo:
 - **Procesador:** Intel Core i5-6300U / i7-6600U  
 - **Memoria RAM:** 8GB / 16GB DDR4  
