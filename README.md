@@ -1,9 +1,8 @@
 # Soporte Técnico - Dell Latitude E7470  
 
-![Logo Allquilatec](LOGO_ALLQUILATEC.jpg) ![Logo Makrosoft](Logo_Makrosoft-27.png)  
+![Logo Allquilatec](LOGO ALLQUILATEC.jpg) ![Logo Makrosoft](Logo Makrosoft-27.png)  
 
 Este sitio proporciona información y soporte para el **Dell Latitude E7470**.  
-
 
 ## 📌 Especificaciones del dispositivo:
 - **Procesador:** Intel Core i5-6300U / i7-6600U  
